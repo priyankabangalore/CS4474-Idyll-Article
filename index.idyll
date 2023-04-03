@@ -1,10 +1,10 @@
 
-[meta title:"Turkey Game" description:"Short description of your project" /]
+[meta title:"Redesigned Cooking Turkey Simulator" description:"Redesgined Turkey Cooking Simulator for CS4474." /]
 
 [Header
   fullWidth:true
   title:"Turkey Cooking Simulator"
-  subtitle:"Welcome to our Redesign of the Turkey Cooking Simulator"
+  subtitle:"CS4474: Human-Computer Interaction"
   author:"Priyanka Bangalore (pbangalo), Anusha Sheikh (asheik55), Eileen Carette (ecarette), Erica Daiying Zhu (dzhu22), Evan Chambers (echamb9)"
   date:"April 6th, 2023"
   background:"#222222"
@@ -12,7 +12,11 @@
    /]
 
 
- [a href:'https://docs.google.com/presentation/d/16LVJfLk_cvI9AjFh7OyhxBHFGyEui16x6aA8a2MXa2E/edit?usp=sharing']Click Here[/a] to view our presentation
+ [a href:'https://docs.google.com/presentation/d/16LVJfLk_cvI9AjFh7OyhxBHFGyEui16x6aA8a2MXa2E/edit?usp=sharing']Click Here[/a] to view our presentation slide deck.
+
+ [a href:'https://echamb1021.github.io/CS4474-final-project/']Click Here[/a] to view the redesigned Turkey Cooking Simulator.
+
+ [a href:'https://github.com/EChamb1021/CS4474-final-project']Click Here[/a] to view the repository.
 
 # Executive Summary
 
