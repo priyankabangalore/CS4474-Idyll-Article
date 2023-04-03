@@ -30,8 +30,6 @@ For any new options or buttons we added to our new design, we ensured we maintai
 
 To conclude our report, we have conducted a heuristic evaluation of the Turkey Cooking Simulator, using the ten evaluation heuristics developed by the Nielsen Norman Group, followed by our recommendations for improvement based on the evaluation.
 
-
-
 # **Design Principles**
 
 Below are 20 design principles we incorporated or maintained in the redesign of the Turkey Cooking Simulator.
@@ -96,7 +94,11 @@ According to the Gestalt laws, the law of common regions suggests that we percei
 ## 20. Progressive Disclosure
 Progressive disclosure is a design technique that prevents overwhelming a user by limiting the amount of information they receive at a given time. In our redesign, we used progressive disclosure in the tutorial displayed at the beginning of the game. Instead of providing users with a list of information all on one page, we designed the tutorial to have 3 to 4 screens, where each screen only provides information about one item to the user. Users are given the option to proceed to the next tutorial page or to skip the entire tutorial depending on if they are familiar with the game, or if they want to learn more. Using progress disclosure, users are less overwhelmed with information and can only see the information they are interested in, without seeing everything at once (which can be overwhelming).
 
+# **Navigational Map**
 
+[FullWidth]
+![alt text](/static/images/Map.png "Navigational Map")
+[/FullWidth]
 
 # **A Final Heuristic Evaluation of our System**
 
