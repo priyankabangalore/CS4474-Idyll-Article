@@ -102,6 +102,22 @@ Progressive disclosure is a design technique that prevents overwhelming a user b
 
 ![Test](./build/static/images/Map.png)
 
+New image 1
+
+<img src="/Map.png" />
+
+New image 2
+
+<img src="Map.png" />
+
+New image 3
+
+<img src="/build/static/images/Map.png" />
+
+New image 4
+
+<img src="./build/static/images/Map.png" />
+
 # **A Final Heuristic Evaluation of our System**
 
 After implementing and modifying the game to be a more user-centred artefact by incorporating various design principles, we conducted a heuristic evaluation of the Turkey Cooking Simulator, using the ten evaluation heuristics developed by the Nielsen Norman Group. 
