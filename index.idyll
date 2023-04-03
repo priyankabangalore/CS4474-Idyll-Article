@@ -7,18 +7,11 @@
   subtitle:"CS4474: Human-Computer Interaction"
   author:"Priyanka Bangalore (pbangalo), Anusha Sheikh (asheik55), Eileen Carette (ecarette), Erica Daiying Zhu (dzhu22), Evan Chambers (echamb9)"
   date:"April 6th, 2023"
-  background:"#222222"
+  background:"#c48a47"
   color:"#ffffff"
    /]
 
-
- [a href:'https://docs.google.com/presentation/d/16LVJfLk_cvI9AjFh7OyhxBHFGyEui16x6aA8a2MXa2E/edit?usp=sharing']Click Here[/a] to view our presentation slide deck.
-
- [a href:'https://echamb1021.github.io/CS4474-final-project/']Click Here[/a] to view the redesigned Turkey Cooking Simulator.
-
- [a href:'https://github.com/EChamb1021/CS4474-final-project']Click Here[/a] to view the repository.
-
-# Executive Summary
+# **Executive Summary**
 
 Turkey Cooking Simulator is a cooking game, developed by Scott Mobley, Robert J. Chen, Benjamin Kwok, and Sheen Kao, depicting a classic American thanksgiving and the cooking of its delicacy: turkey.
 
@@ -39,7 +32,9 @@ To conclude our report, we have conducted a heuristic evaluation of the Turkey C
 
 
 
-# Design Principles
+# **Design Principles**
+
+Below are 20 design principles we incorporated or maintained in the redesign of the Turkey Cooking Simulator.
 
 ## 1. Metaphor
 A metaphor is defined as a method of mapping from an unfamiliar object to a familiar one to create a sense of familiarity. In our redesign, we have chosen to maintain the original game’s approach to the store, keeping the store metaphor, but with an improved design to make the metaphor easier to understand. Rather than using the store’s original skeuomorphic design, we placed the items on clearly organized shelves, with price tags below each item. These price tags reflect the format of shelves in actual supermarkets, and the simplified shelves make it much easier for the user to see what items are available for purchase. This is a virtual metaphor because instead of picking items up from the shelf, the user purchases the items by simply clicking on them.
@@ -103,7 +98,7 @@ Progressive disclosure is a design technique that prevents overwhelming a user b
 
 
 
-# A Final Heuristic Evaluation of our System 
+# **A Final Heuristic Evaluation of our System**
 
 After implementing and modifying the game to be a more user-centred artefact by incorporating various design principles, we conducted a heuristic evaluation of the Turkey Cooking Simulator, using the ten evaluation heuristics developed by the Nielsen Norman Group. 
 
@@ -161,3 +156,10 @@ Lastly, the system could be improved by allowing users to manually stuff, decora
 
 In essence, while the changes our group made to the Turkey Cooking Simulator made the game more user-friendly, with clearer controls, navigation, and an objective, there is always room for improvement.
 
+# **Links**
+
+ [a href:'https://docs.google.com/presentation/d/16LVJfLk_cvI9AjFh7OyhxBHFGyEui16x6aA8a2MXa2E/edit?usp=sharing']Click here[/a] to view our presentation slide deck.
+
+ [a href:'https://echamb1021.github.io/CS4474-final-project/']Click here[/a] to view the redesigned Turkey Cooking Simulator.
+
+ [a href:'https://github.com/EChamb1021/CS4474-final-project']Click here[/a] to view the changed repository.
