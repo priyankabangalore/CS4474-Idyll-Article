@@ -100,7 +100,14 @@ Progressive disclosure is a design technique that prevents overwhelming a user b
 ![Navigational Map](/static/images/Map.png "Navigational Map")
 [/FullWidth]
 
+Attempt 1
+<img src="/static/images/Map.png" alt="Navigational Map" width="500" height="600">
 
+Attempt 2
+<img src="Map.png" alt="Navigational Map" width="500" height="600">
+
+Attempt 3
+<img src="/build/static/images/Map.png" alt="Navigational Map" width="500" height="600">
 
 
 # **A Final Heuristic Evaluation of our System**
