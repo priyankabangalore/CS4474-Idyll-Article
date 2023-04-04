@@ -1,5 +1,5 @@
 
-[meta title:"Redesigned Cooking Turkey Simulator" description:"Redesgined Turkey Cooking Simulator for CS4474." /]
+[meta title:"Final Report" description:"Redesigned Turkey Cooking Simulator for CS4474." /]
 
 [Header
   fullWidth:true
@@ -11,7 +11,7 @@
   color:"#ffffff"
    /]
 
-# **Executive Summary**
+# **📃 Executive Summary 📃**
 
 Turkey Cooking Simulator is a cooking game, developed by Scott Mobley, Robert J. Chen, Benjamin Kwok, and Sheen Kao, depicting a classic American thanksgiving and the cooking of its delicacy: turkey.
 
@@ -30,7 +30,7 @@ For any new options or buttons we added to our new design, we ensured we maintai
 
 To conclude our report, we have conducted a heuristic evaluation of the Turkey Cooking Simulator, using the ten evaluation heuristics developed by the Nielsen Norman Group, followed by our recommendations for improvement based on the evaluation.
 
-# **Design Principles**
+# **✔️ Design Principles ✔️**
 
 Below are 20 design principles we incorporated or maintained in the redesign of the Turkey Cooking Simulator.
 
@@ -94,11 +94,11 @@ According to the Gestalt laws, the law of common regions suggests that we percei
 ## 20. Progressive Disclosure
 Progressive disclosure is a design technique that prevents overwhelming a user by limiting the amount of information they receive at a given time. In our redesign, we used progressive disclosure in the tutorial displayed at the beginning of the game. Instead of providing users with a list of information all on one page, we designed the tutorial to have 3 to 4 screens, where each screen only provides information about one item to the user. Users are given the option to proceed to the next tutorial page or to skip the entire tutorial depending on if they are familiar with the game, or if they want to learn more. Using progress disclosure, users are less overwhelmed with information and can only see the information they are interested in, without seeing everything at once (which can be overwhelming).
 
-# **Navigational Map**
+# **🗺️ Navigational Map 🗺️**
 
 [a href:'https://drive.google.com/drive/folders/12kLoP0fd0BlqN8ddnDs9Pale0nkcS7O2?usp=share_link']Click here[/a] to view our navigational map of the Turkey Cooking Simulator.
 
-# **A Final Heuristic Evaluation of our System**
+# **💻 A Final Heuristic Evaluation of our System 💻**
 
 After implementing and modifying the game to be a more user-centred artefact by incorporating various design principles, we conducted a heuristic evaluation of the Turkey Cooking Simulator, using the ten evaluation heuristics developed by the Nielsen Norman Group. 
 
@@ -140,7 +140,7 @@ The ninth heuristic is helping users recognize, diagnose and recover from errors
 The tenth heuristic is help and documentation, defined as providing users with the help they need in an effective, task-oriented manner. Our game redesign involves incorporating a brief tutorial at the beginning of the game that lets the user orient themselves with common controls and also points to where the help button is. The redesign makes it easy to ask for help because the help manual is available at any point during the game and the first thing the tutorial explains is where to find the help manual in case the user needs it. The help manual and tutorial are focused on the user’s task because they offer guidance on where to find specific control options and help the user orient themselves with their surroundings while still not taking away from the gameplay aspect of it. The help manual that users have available to them at any time during the gameplay provides users with a list of concrete steps they can carry out, about a specific part of the game. For instance, one section of the help manual pertains specifically to the oven and what can be done with the oven door, handle, and buttons.
 
 
-# Recommendations for Improvement in Light of our Final Heuristic Evaluation
+# **💡 Recommendations for Improvement in Light of our Final Heuristic Evaluation 💡**
 
 In light of our final evaluation, while our redesign of the Turkey Cooking Simulator system makes it more user-friendly, utilizing many of the human-computer interaction principles we have learned, we recognize that it can be improved.
 
@@ -156,7 +156,7 @@ Lastly, the system could be improved by allowing users to manually stuff, decora
 
 In essence, while the changes our group made to the Turkey Cooking Simulator made the game more user-friendly, with clearer controls, navigation, and an objective, there is always room for improvement.
 
-# **Links**
+# **🔗 Links 🔗**
 
  [a href:'https://docs.google.com/presentation/d/16LVJfLk_cvI9AjFh7OyhxBHFGyEui16x6aA8a2MXa2E/edit?usp=sharing']Click here[/a] to view our presentation slide deck.
 
